@@ -1,0 +1,14 @@
+#summary Getting Started
+#labels Featured
+
+= Introduction =
+
+Download the package pyspincore-0.1beta.tar.gz  and untar the file:
+
+  tar xvfz pyspincore-0.1beta.tar.gz
+
+  cd pyspincore
+
+Run the simple example:
+
+  python simple_example.py
