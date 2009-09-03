@@ -11,4 +11,4 @@ Download the package pyspincore-0.1beta.tar.gz  and untar the file:
 
 Run the simple example:
 
-  python simple_example.py
+  sudo python simple_example.py
